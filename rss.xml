@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Life Strategic]]></title>
         <description><![CDATA[The Life Strategic]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-life-strategic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 10:18:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Apr 2016 10:27:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-life-strategic/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Life As Chess - The Life Strategic]]></title>
+            <description><![CDATA[<article><h1>Life As Chess - The Life Strategic</h1><p>1987. Seville, Spain. Defending World Champion Gary Kasparov (white) is down one loss in the Champion's match against challenger and former champion Anatoly Karpov during the final game of the series - he would lose the title with anything less than a win.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/55ec7c43a69a06cb2f98de73c6202a56a0dc4065.jpg"></article>]]></description>
+            <link>http://www.thelifestrategic.com/</link>
+            <guid isPermaLink="false">28a0896c-9a1d-441a-93d5-0e96cfef515d</guid>
+            <pubDate>Thu, 21 Apr 2016 10:27:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The Life Strategic</p>]]></description>
-            <link>undefinedthe-life-strategic/index.html</link>
+            <link>https://thegrid.ai/the-life-strategic/the-life-strategic/index.html</link>
             <guid isPermaLink="false">ff42c41c-e34d-40e4-b792-7c2a3aaa61c4</guid>
             <pubDate>Thu, 21 Apr 2016 10:18:24 GMT</pubDate>
         </item>
